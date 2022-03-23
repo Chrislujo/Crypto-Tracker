@@ -1,3 +1,7 @@
+# NEXT STEPS WITH APP
+
+I will be adding a search function into App, since currently it is just pulling and showing 10 coins.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
